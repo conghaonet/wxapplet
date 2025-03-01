@@ -1,13 +1,13 @@
-## 每日一卦
+## 每日一卦（摇卦）
 src/subPack/divine/divine.ts
 
-## 每日一签
+## 每日一签（黄大仙灵签）
 src/subPack/draw/hdx.ts
 
 ## 掌纹算命
 subPack/fingerprint/fingerprint.ts
 
-## muyu
+## 功德木鱼
 src/subPack/woodenFish/index.vue
 
 <!-- 安装 -->
