@@ -1,3 +1,15 @@
+## 每日一卦
+src/subPack/divine/divine.ts
+
+## 每日一签
+src/subPack/draw/hdx.ts
+
+## 掌纹算命
+subPack/fingerprint/fingerprint.ts
+
+## muyu
+src/subPack/woodenFish/index.vue
+
 <!-- 安装 -->
 
 1、npm install
